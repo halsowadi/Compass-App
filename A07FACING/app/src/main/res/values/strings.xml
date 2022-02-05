@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A07-FACING</string>
+    <string name="Hello_World">Hello World!</string>
+    <string name="Hello_426">Hello Android 426</string>
+    <string name="fab">FAB Pressed</string>
+    <string name="button">BUTTON</string>
+    <string name="Image_Click">Image is clicked!</string>
+
+</resources>
